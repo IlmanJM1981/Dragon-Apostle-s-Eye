@@ -21,6 +21,6 @@ curl -s https://raw.githubusercontent.com/IlmanJM1981/fortress/main/fortress-ins
 ## 📥 Download v1.1 (Stable)
 If you prefer a manual installation or need a portable version for a USB drive:
 * **[Download Fortress v1.1 (.zip)](https://github.com/IlmanJM1981/fortress/archive/refs/heads/main.zip)**
-* **[View the Apostle's Installation Guide](README.md)**
+* **[View the Apostle's Installation Guide](README.txt)**
 
 ---
