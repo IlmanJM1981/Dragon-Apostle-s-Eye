@@ -1,10 +1,27 @@
 # 👁️ Dragon Apostle's Eye (v1.1.8 Stable)
-**Tactical OSINT Suite**
+**Tactical Reconnaissance & Self-Repairing OSINT Suite**
 
-## Modules
-* Phone Recon
-* Network Recon
-* Self-Repair
+Built by **Jesse Miller / Ilman Yong**.
 
-## Install
-`bash eye_installer.sh`
+---
+
+## 🛠️ Key Intelligence Modules
+| Feature | Description |
+| :--- | :--- |
+| **Phone Recon** | Extracts carrier data and detects physical vs. VOIP line types. |
+| **Network Recon** | Performs Nmap OS discovery, Blacklist checks, and Whois lookup. |
+| **Tactical Traceroute** | Streamlined view showing only the starting node and the final reachable hop. |
+| **Identity Probe** | Multi-platform search across Reddit, Steam, Twitch, and more. |
+| **Self-Repair** | Internal Fortress architecture that force-restores stable code if corrupted. |
+
+---
+
+## 🚀 Installation & Setup
+To deploy the suite, run the master installer:
+
+```bash
+bash eye_installer.sh
+```
+
+---
+**Disclaimer**: For educational and authorized security research purposes only.
